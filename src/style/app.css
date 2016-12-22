@@ -1,0 +1,10 @@
+:root {
+  --color: #333;
+}
+
+body {
+  background: #fff;
+  & p {
+    color: var(--color);
+  }
+}
