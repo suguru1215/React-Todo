@@ -1,5 +1,5 @@
 #Todoアプリ
-Todoアプリのチュートリアルです。
+webpack, Babel, PostCSS を使用したTodoアプリ
 * 追加
 * 削除
 
